@@ -113,6 +113,8 @@
 	.include "Custom/Epoch.asm"
 	.include "Custom/Eliwood.asm"
 	.include "Custom/Nergal.asm"
+
+	.include "Custom/Rufus.asm"
 	
 .relativeinclude off	
 		

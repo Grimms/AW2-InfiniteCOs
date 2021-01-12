@@ -733,5 +733,20 @@
 	.word	CCONergalCOPQuote3
 	.word	CCONergalCOPQuote4
 	.word	CCONergalCOPQuote5
-	.word	CCONergalCOPQuote6	
+	.word	CCONergalCOPQuote6
+
+	.word	CCORufusName
+	.word	CCORufusCOPower
+	.word	CCORufusSuperPower
+	.word	CCORufusDesc1
+	.word	CCORufusDesc2
+	.word	CCORufusDesc3
+	.word	CCORufusDesc4
+	.word	CCORufusVictory
+	.word	CCORufusCOPQuote1
+	.word	CCORufusCOPQuote2
+	.word	CCORufusCOPQuote3
+	.word	CCORufusCOPQuote4
+	.word	CCORufusCOPQuote5
+	.word	CCORufusCOPQuote6
 	;Blank Line

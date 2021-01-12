@@ -75,6 +75,8 @@ Graphics_AW2_Property_Lab:
 .include "graphics/graphicsccowalter.asm"
 .include "graphics/graphicsccoeliwood.asm"
 .include "graphics/graphics_cconergal.asm"
+
+.include "graphics/graphicsccorufus.asm"
 	
 ;Note, Small Mugs need to be in order of CO ID
 

@@ -28,6 +28,8 @@ VSCoSelectTable:
 ;	.db	COCCOZed
 	.db	COCCOEliwood
 	.db	COCCONergal
+
+	.db COCCORufus
 	.db	0xFF
 	
 .align 4	
@@ -69,6 +71,8 @@ Table_COSelect_CCO:
 	.db	COCCOWalter
 	.db	COCCOEliwood
 	.db	COCCONergal
+
+	.db COCCORufus
 	.db	0xFF
 	
 
@@ -82,12 +86,12 @@ WarRoomCOSelectTable:
 	.db	0xFF,0x2
 	.db	COKanbei,COSonja,COSensei,COAWDSKanbei,COAWDSSonja,COAWDSSensei,COAWDSGrimm,COAW1Kanbei,COAW1Sonja
 	.db	0xFF,0x3
-	.db	COFlak,COLash,COAdder,COHawke,COSturm,COAWDSFlak,COAWDSLash,COAWDSAdder,COAWDSHawke,COAWDSJugger,COAWDSKoal,COAWDSKindle,COAWDSVonBolt,COAW1Sturm,COAW1SturmVs,COSFWCaroline,COSFWBillygates,COSFWYamamoto,COCCOEpoch,COCCOVenomAdder,COCCONergal
+	.db	COFlak,COLash,COAdder,COHawke,COSturm,COAWDSFlak,COAWDSLash,COAWDSAdder,COAWDSHawke,COAWDSJugger,COAWDSKoal,COAWDSKindle,COAWDSVonBolt,COAW1Sturm,COAW1SturmVs,COSFWCaroline,COSFWBillygates,COSFWYamamoto,COCCOEpoch,COCCOVenomAdder,COCCONergal,COCCORufus
 	.db	0xFF,0x4,0xFF
 	
 .align 4
 BattleAnimationSpriteTable:
-;This table sets which army sprites each CO uses in Battle Animations
+;This table sets which army sprites each CO uses in Battle Animations              ;TODO set this too (and let's recheck this entire file)
 	.db	0,0,0,1,0,1,3,3,2,2,4
 	.db	4,4,4,4,0,1,2,3,0,1,2
 	.db	3,4
