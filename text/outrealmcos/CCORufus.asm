@@ -1,6 +1,6 @@
 ;CCORufus CCO
 CCORufusName:
-	.ascii "CCORufus CO"
+	.ascii "Rufus"          ;this was "CCORufus CO" earlier, but I thought that was redundant
 	TextEnd
 CCORufusCOPower:
 	.ascii "Infiltration"
@@ -14,49 +14,49 @@ CCORufusDesc1:
 	.ascii "Miss: Nonperformance"
 	TextEnd
 CCORufusDesc2:
-	.ascii "His A copters have",TextNL,"greater attack and",TextNL,"defence capabilities,",TextNL,"and his T copters",TextNL,"have a greater range.",TextNL,"Access to SOLDIERs."
+	.ascii "His A copters have",TextNL,"greater offensive",TextNL,"capabilities, and",TextNL,"his T copters",TextNL,"have a greater range.",TextNL,"Access to SOLDIERs."
 	TextEnd
 CCORufusDesc3:
-	.ascii "Craftily cozens one",TextNL,"enemy unit to his side,",TextNL,"ready to activate",TextNL,"immediately.",TextNL,"",TextNL,""
+	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately.",TextNL,"",TextNL,""
 	TextEnd
 CCORufusDesc4:
-	.ascii "Craftily cozens one",TextNL,"enemy unit to his side,",TextNL,"ready to activate",TextNL,"immediately. Also can",TextNL,"capture properties",TextNL,"more easily."
+	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately. Also can",TextNL,"capture properties",TextNL,"more easily."
 	TextEnd
 CCORufusVictory:
-	.ascii "You are to be witness to",TextNL,"power that overwhelms!"
+	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
 	TextEnd
 CCORufusCOPQuote1:
-	.ascii "Let us put your skills to the test.",TextNL,"If, you can get past my morphs first."
+	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote2:
-	.ascii "I will become stronger and move",TextNL,"ever closer to perfection."
+	.ascii "I will protect the world from",TextNL,"these indigent terrorists!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote3:
-	.ascii "Death feeds me. Death pleases me.",TextNL,"You fools will become corpses here."
+	.ascii "You can't beat me, but you can",TextNL,"join me. You'd better hurry though!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote4:
-	.ascii "Your weakness runs deep in you.",TextNL,"You can never understand."
+	.ascii "You'll all be punished once this",TextNL,"is over, unless you join me now!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote5:
-	.ascii "At last... At last, my power is restored."
+	.ascii "Fight for me and you will stay alive.",TextNL,"Defy me and face the wrath of Shinra!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote6:
-	.ascii "That's enough. You will await the end of",TextNL,"the world trembling in the shadows!"
+	.ascii "Watch me put the fear of Shinra",TextNL,"in you and your troops!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
