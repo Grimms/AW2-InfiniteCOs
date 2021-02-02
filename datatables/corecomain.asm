@@ -30,6 +30,7 @@ VSCoSelectTable:
 	.db	COCCONergal
 
 	.db COCCORufus
+	.db COCCOHeidegger
 	.db	0xFF
 	
 .align 4	
@@ -73,6 +74,7 @@ Table_COSelect_CCO:
 	.db	COCCONergal
 
 	.db COCCORufus
+	.db COCCOHeidegger
 	.db	0xFF
 	
 
@@ -86,7 +88,7 @@ WarRoomCOSelectTable:
 	.db	0xFF,0x2
 	.db	COKanbei,COSonja,COSensei,COAWDSKanbei,COAWDSSonja,COAWDSSensei,COAWDSGrimm,COAW1Kanbei,COAW1Sonja
 	.db	0xFF,0x3
-	.db	COFlak,COLash,COAdder,COHawke,COSturm,COAWDSFlak,COAWDSLash,COAWDSAdder,COAWDSHawke,COAWDSJugger,COAWDSKoal,COAWDSKindle,COAWDSVonBolt,COAW1Sturm,COAW1SturmVs,COSFWCaroline,COSFWBillygates,COSFWYamamoto,COCCOEpoch,COCCOVenomAdder,COCCONergal,COCCORufus
+	.db	COFlak,COLash,COAdder,COHawke,COSturm,COAWDSFlak,COAWDSLash,COAWDSAdder,COAWDSHawke,COAWDSJugger,COAWDSKoal,COAWDSKindle,COAWDSVonBolt,COAW1Sturm,COAW1SturmVs,COSFWCaroline,COSFWBillygates,COSFWYamamoto,COCCOEpoch,COCCOVenomAdder,COCCONergal,COCCORufus,COCCOHeidegger
 	.db	0xFF,0x4,0xFF
 	
 .align 4

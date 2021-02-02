@@ -749,4 +749,19 @@
 	.word	CCORufusCOPQuote4
 	.word	CCORufusCOPQuote5
 	.word	CCORufusCOPQuote6
+
+	.word	CCOHeideggerName
+	.word	CCOHeideggerCOPower
+	.word	CCOHeideggerSuperPower
+	.word	CCOHeideggerDesc1
+	.word	CCOHeideggerDesc2
+	.word	CCOHeideggerDesc3
+	.word	CCOHeideggerDesc4
+	.word	CCOHeideggerVictory
+	.word	CCOHeideggerCOPQuote1
+	.word	CCOHeideggerCOPQuote2
+	.word	CCOHeideggerCOPQuote3
+	.word	CCOHeideggerCOPQuote4
+	.word	CCOHeideggerCOPQuote5
+	.word	CCOHeideggerCOPQuote6
 	;Blank Line

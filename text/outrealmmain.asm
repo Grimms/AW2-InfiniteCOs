@@ -60,5 +60,6 @@
 	.include "text/outrealmcos/cconergal.asm"
 
 	.include "text/outrealmcos/ccorufus.asm"
+	.include "text/outrealmcos/ccoheidegger.asm"
 	
 ;Blank Line

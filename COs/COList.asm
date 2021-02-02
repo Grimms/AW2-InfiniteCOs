@@ -115,6 +115,7 @@
 	.include "Custom/Nergal.asm"
 
 	.include "Custom/Rufus.asm"
+	.include "Custom/Heidegger.asm"
 	
 .relativeinclude off	
 		

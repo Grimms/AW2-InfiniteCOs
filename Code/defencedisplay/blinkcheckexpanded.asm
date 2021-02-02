@@ -155,4 +155,7 @@ ExpandedBlinkCheckTable:
 
 ;Rufus
 	.db	1,1,1,0     ;TODO this needs to blink
+;Heidegger
+	.db	1,1,1,0     ;TODO this needs to blink
+
 ;Blank Line	

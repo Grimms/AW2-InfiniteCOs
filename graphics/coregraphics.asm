@@ -77,6 +77,7 @@ Graphics_AW2_Property_Lab:
 .include "graphics/graphics_cconergal.asm"
 
 .include "graphics/graphicsccorufus.asm"
+.include "graphics/graphicsccoheidegger.asm"
 	
 ;Note, Small Mugs need to be in order of CO ID
 
@@ -141,7 +142,7 @@ GraphicsOutrealmMugSmall:
 	.import "graphics/CO/OutrealmCO/outrealmsmug.bin"	
 	.import "graphics/CO/CCOEliwood/eliwoodsmug.bin"	;Eliwood	
 	.import "graphics/CO/CCONergal/NergalSMug.bin"		;nergal	
-	
+	;TODO: add SMugs here
 	
 	
 ;Blank Line
