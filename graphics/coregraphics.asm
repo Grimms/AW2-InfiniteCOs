@@ -76,6 +76,7 @@ Graphics_AW2_Property_Lab:
 .include "graphics/graphicsccoeliwood.asm"
 .include "graphics/graphics_cconergal.asm"
 
+.include "graphics/graphicsccopresident.asm"
 .include "graphics/graphicsccorufus.asm"
 .include "graphics/graphicsccoheidegger.asm"
 	

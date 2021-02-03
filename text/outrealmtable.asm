@@ -735,6 +735,21 @@
 	.word	CCONergalCOPQuote5
 	.word	CCONergalCOPQuote6
 
+	.word	CCOPresidentName
+	.word	CCOPresidentCOPower
+	.word	CCOPresidentSuperPower
+	.word	CCOPresidentDesc1
+	.word	CCOPresidentDesc2
+	.word	CCOPresidentDesc3
+	.word	CCOPresidentDesc4
+	.word	CCOPresidentVictory
+	.word	CCOPresidentCOPQuote1
+	.word	CCOPresidentCOPQuote2
+	.word	CCOPresidentCOPQuote3
+	.word	CCOPresidentCOPQuote4
+	.word	CCOPresidentCOPQuote5
+	.word	CCOPresidentCOPQuote6
+
 	.word	CCORufusName
 	.word	CCORufusCOPower
 	.word	CCORufusSuperPower

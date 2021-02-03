@@ -150,6 +150,8 @@ AIRulesVsTable:
 	;CCO Eliwood
 	.db	0x6D,0x6E,0x6F,0x70	
 
+	;CCO President
+    .db	0x58,0x59,0x5A,0x5B                ;TODO gotta find out what this should actually be
 	;CCO Rufus
     .db	0x60,0x61,0x62,0x63                ;TODO gotta find out what this should actually be
     ;CCO Heidegger

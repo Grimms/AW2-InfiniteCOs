@@ -114,6 +114,7 @@
 	.include "Custom/Eliwood.asm"
 	.include "Custom/Nergal.asm"
 
+	.include "Custom/President.asm"
 	.include "Custom/Rufus.asm"
 	.include "Custom/Heidegger.asm"
 	

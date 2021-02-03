@@ -204,6 +204,9 @@ String_VsMenu_CCOEliwood:
 String_VsMenu_CCONergal:
 	.ascii "Nergal: Duplicate unit boost.",0x0
 
+String_VsMenu_CCOPresident:
+	.ascii "President: Extra income & SOLDIERs.",0x0             ;TODO this text doesn't quite work right yet. needs some index fix or something
+
 String_VsMenu_CCORufus:
 	.ascii "Rufus: Infiltration ability & SOLDIERs.",0x0             ;TODO this text doesn't quite work right yet. needs some index fix or something
 

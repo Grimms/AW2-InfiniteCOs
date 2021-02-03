@@ -59,6 +59,7 @@
 	.include "text/outrealmcos/ccoeliwood.asm"
 	.include "text/outrealmcos/cconergal.asm"
 
+	.include "text/outrealmcos/ccopresident.asm"
 	.include "text/outrealmcos/ccorufus.asm"
 	.include "text/outrealmcos/ccoheidegger.asm"
 	

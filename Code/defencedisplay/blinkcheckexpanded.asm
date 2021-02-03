@@ -153,6 +153,8 @@ ExpandedBlinkCheckTable:
 ;Nergal	
 	.db	0,0,0,0
 
+;President
+	.db	1,1,1,0     ;TODO this needs to blink
 ;Rufus
 	.db	1,1,1,0     ;TODO this needs to blink
 ;Heidegger
