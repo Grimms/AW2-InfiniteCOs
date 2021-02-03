@@ -794,4 +794,19 @@
 	.word	CCOScarletCOPQuote4
 	.word	CCOScarletCOPQuote5
 	.word	CCOScarletCOPQuote6
+	
+	.word	CCOHojoName
+	.word	CCOHojoCOPower
+	.word	CCOHojoSuperPower
+	.word	CCOHojoDesc1
+	.word	CCOHojoDesc2
+	.word	CCOHojoDesc3
+	.word	CCOHojoDesc4
+	.word	CCOHojoVictory
+	.word	CCOHojoCOPQuote1
+	.word	CCOHojoCOPQuote2
+	.word	CCOHojoCOPQuote3
+	.word	CCOHojoCOPQuote4
+	.word	CCOHojoCOPQuote5
+	.word	CCOHojoCOPQuote6
 	;Blank Line

@@ -1,21 +1,21 @@
-;graphicsccoheidegger.asm
-GraphicsHeideggerPalette:
+;graphicsccohojo.asm
+GraphicsHojoPalette:
 	.import "graphics/CO/CCORufus/rufusPalette.bin"
-GraphicsHeideggerGraphic:
+GraphicsHojoGraphic:
 	.dw GraphicsRufusTop
 	.dw GraphicsRufusBody
-GraphicsHeideggerTop:
+GraphicsHojoTop:
 	.import "graphics/CO/CCORufus/rufusTop.bin"
-GraphicsHeideggerBody:
+GraphicsHojoBody:
 	.import "graphics/CO/CCORufus/rufusBody.bin"
-GraphicsHeideggerFace:
+GraphicsHojoFace:
 	.import "graphics/CO/CCORufus/rufusNeutral.bin"
-GraphicsHeideggerHappyFace:
+GraphicsHojoHappyFace:
 	.import "graphics/CO/CCORufus/rufusHappy.bin"
-GraphicsHeideggerSadFace:
+GraphicsHojoSadFace:
 	.import "graphics/CO/CCORufus/rufusSad.bin"
-GraphicsHeideggerName:
-	.import "graphics/CO/CCOHeidegger/heideggername.bin"
-GraphicsHeideggerMugshot:
+GraphicsHojoName:
+	.import "graphics/CO/CCORufus/rufusName.bin"
+GraphicsHojoMugshot:
 	.import "graphics/CO/AWDSJake/AWDSJakemug.bin"
 ;Blank Line

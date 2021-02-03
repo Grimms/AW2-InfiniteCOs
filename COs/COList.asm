@@ -118,6 +118,7 @@
 	.include "Custom/Rufus.asm"
 	.include "Custom/Heidegger.asm"
 	.include "Custom/Scarlet.asm"
-	
+	.include "Custom/Hojo.asm"
+
 .relativeinclude off	
 		

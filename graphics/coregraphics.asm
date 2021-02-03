@@ -80,7 +80,8 @@ Graphics_AW2_Property_Lab:
 .include "graphics/graphicsccorufus.asm"
 .include "graphics/graphicsccoheidegger.asm"
 .include "graphics/graphicsccoscarlet.asm"
-	
+.include "graphics/graphicsccohojo.asm"
+
 ;Note, Small Mugs need to be in order of CO ID
 
 GraphicsOutrealmMugSmall:

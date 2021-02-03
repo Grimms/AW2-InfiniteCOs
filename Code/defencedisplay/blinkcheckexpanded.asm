@@ -161,5 +161,7 @@ ExpandedBlinkCheckTable:
 	.db	1,1,1,1     ;TODO this needs to blink
 ;Scarlet
 	.db	1,1,1,1     ;TODO this needs to blink
+;Hojo
+	.db	1,1,1,1     ;TODO this needs to blink
 
 ;Blank Line	

@@ -215,4 +215,7 @@ String_VsMenu_CCOHeidegger:
 
 String_VsMenu_CCOScarlet:
 	.ascii "Scarlet: Extra ammunition & SOLDIERs.",0x0             ;TODO this text doesn't quite work right yet. needs some index fix or something
+
+String_VsMenu_CCOHojo:
+	.ascii "Hojo: Unit combining & SOLDIERs.",0x0             ;TODO this text doesn't quite work right yet. needs some index fix or something
 ;Blank Line
