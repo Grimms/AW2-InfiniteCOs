@@ -154,10 +154,12 @@ ExpandedBlinkCheckTable:
 	.db	0,0,0,0
 
 ;President
-	.db	1,1,1,0     ;TODO this needs to blink
+	.db	1,1,1,1     ;TODO this needs to blink
 ;Rufus
-	.db	1,1,1,0     ;TODO this needs to blink
+	.db	1,1,1,1     ;TODO this needs to blink
 ;Heidegger
-	.db	1,1,1,0     ;TODO this needs to blink
+	.db	1,1,1,1     ;TODO this needs to blink
+;Scarlet
+	.db	1,1,1,1     ;TODO this needs to blink
 
 ;Blank Line	

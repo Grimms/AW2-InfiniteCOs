@@ -779,4 +779,19 @@
 	.word	CCOHeideggerCOPQuote4
 	.word	CCOHeideggerCOPQuote5
 	.word	CCOHeideggerCOPQuote6
+
+	.word	CCOScarletName
+	.word	CCOScarletCOPower
+	.word	CCOScarletSuperPower
+	.word	CCOScarletDesc1
+	.word	CCOScarletDesc2
+	.word	CCOScarletDesc3
+	.word	CCOScarletDesc4
+	.word	CCOScarletVictory
+	.word	CCOScarletCOPQuote1
+	.word	CCOScarletCOPQuote2
+	.word	CCOScarletCOPQuote3
+	.word	CCOScarletCOPQuote4
+	.word	CCOScarletCOPQuote5
+	.word	CCOScarletCOPQuote6
 	;Blank Line

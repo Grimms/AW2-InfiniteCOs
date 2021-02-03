@@ -31,17 +31,17 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCOHeidegger,Unit_Mech,50,100,1,0
+	setCOD2DUnitStat		coCCOHeidegger,Unit_Mech,50,50,1,0
 	;tank
 	setCOD2DUnitStat		coCCOHeidegger,Unit_Tank,20,0,0,0
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCOHeidegger,Unit_Mech,50,100,1,0
+	setCOPowerUnitStat		coCCOHeidegger,Unit_Mech,50,50,1,0
 
 	;CO super
 	;SOLDIER
-	setCOSuperUnitStat		coCCOHeidegger,Unit_Mech,50,100,1,0
+	setCOSuperUnitStat		coCCOHeidegger,Unit_Mech,50,50,1,0
 
 
 	setCOPowerASM			coCCOHeidegger,COPowerCopterCommand                ;TODO: probably gonna need help with these...

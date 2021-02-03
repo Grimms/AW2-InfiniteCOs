@@ -76,5 +76,6 @@ Table_VersusMenu_Description_Offset:
 	.word	String_VsMenu_CCOPresident
 	.word	String_VsMenu_CCORufus
 	.word	String_VsMenu_CCOHeidegger
+	.word	String_VsMenu_CCOScarlet
 	;TODO: this doesn't work right, needs sorting out
 	

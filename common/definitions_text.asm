@@ -72,8 +72,9 @@
 	ScriptCCOPresident			equ ScriptOutrealm+(14*49)
 	ScriptCCORufus				equ ScriptOutrealm+(14*50)
 	ScriptCCOHeidegger			equ ScriptOutrealm+(14*51)
+	ScriptCCOScarlet			equ ScriptOutrealm+(14*52)
 
-	AdditionalMapCaseNames	equ ScriptCCOHeidegger+14             ;this needs to refer to the last CO
+	AdditionalMapCaseNames	equ ScriptCCOScarlet+14             ;this needs to refer to the last CO
 	AW1TutorialMapNames	equ AdditionalMapCaseNames+10
 	AW1CampaignMapNames	equ AW1TutorialMapNames+14
 	AWDSCampaignMapNames	equ AW1CampaignMapNames+34

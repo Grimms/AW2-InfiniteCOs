@@ -31,15 +31,15 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCOPresident,Unit_Mech,50,100,1,0
+	setCOD2DUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCOPresident,Unit_Mech,50,100,1,0
+	setCOPowerUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
 
 	;CO super
 	;SOLDIER
-	setCOSuperUnitStat		coCCOPresident,Unit_Mech,50,100,1,0
+	setCOSuperUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
 
 
 	setCOPowerASM			coCCOPresident,COPowerCopterCommand                ;TODO: probably gonna need help with these...

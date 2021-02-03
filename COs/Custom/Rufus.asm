@@ -31,7 +31,7 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCORufus,Unit_Mech,50,100,1,0
+	setCOD2DUnitStat		coCCORufus,Unit_Mech,50,50,1,0
 	;T copter
 	setCOD2DUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
 	;A copter
@@ -39,7 +39,7 @@
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCORufus,Unit_Mech,50,100,1,0
+	setCOPowerUnitStat		coCCORufus,Unit_Mech,50,50,1,0
 	;T copter
 	setCOPowerUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
 	;A copter
@@ -47,7 +47,7 @@
 
 	;CO super
 	;SOLDIER
-	setCOSuperUnitStat		coCCORufus,Unit_Mech,50,100,1,0
+	setCOSuperUnitStat		coCCORufus,Unit_Mech,50,50,1,0
 	;T copter
 	setCOSuperUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
 	;A copter

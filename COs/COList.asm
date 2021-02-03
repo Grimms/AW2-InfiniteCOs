@@ -117,6 +117,7 @@
 	.include "Custom/President.asm"
 	.include "Custom/Rufus.asm"
 	.include "Custom/Heidegger.asm"
+	.include "Custom/Scarlet.asm"
 	
 .relativeinclude off	
 		

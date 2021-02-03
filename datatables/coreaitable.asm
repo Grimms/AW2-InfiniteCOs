@@ -156,5 +156,7 @@ AIRulesVsTable:
     .db	0x60,0x61,0x62,0x63                ;TODO gotta find out what this should actually be
     ;CCO Heidegger
     .db	0x34,0x35,0x36,0x37                ;TODO gotta find out what this should actually be
+    ;CCO Scarlet
+    .db	0x5C,0x5D,0x5E,0x5F                ;TODO gotta find out what this should actually be
 
 

@@ -79,6 +79,7 @@ Graphics_AW2_Property_Lab:
 .include "graphics/graphicsccopresident.asm"
 .include "graphics/graphicsccorufus.asm"
 .include "graphics/graphicsccoheidegger.asm"
+.include "graphics/graphicsccoscarlet.asm"
 	
 ;Note, Small Mugs need to be in order of CO ID
 
