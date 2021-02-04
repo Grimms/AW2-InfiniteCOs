@@ -1,7 +1,7 @@
 ;Common Definitions
 
 ;Maximum Number of Commanding Officers
-MaxCOId equ 75							;total number of COs
+MaxCOId equ 76							;total number of COs
 Total_CO_AW2 equ 19
 Total_CO_AW1 equ 12
 Total_CO_AW3 equ 27
@@ -96,8 +96,8 @@ COCCONergal	equ 71
 COCCOPresident		equ 72
 COCCORufus			equ 73
 COCCOHeidegger		equ 74
-COCCOScarlet		equ 76
-COCCOHojo			equ 77
+COCCOScarlet		equ 75
+COCCOHojo			equ 76
 
 ;Power States
 COMode_Daily	equ 0
