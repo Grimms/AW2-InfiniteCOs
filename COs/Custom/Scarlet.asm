@@ -1,8 +1,8 @@
 	setCODefaults           coCCOScarlet
-	setCOGameID		coCCOScarlet,Game_Custom
+	setCOGameID				coCCOScarlet,Game_Custom
 
 	setCOGFXFullbody        coCCOScarlet,GraphicsRufusGraphic
-	setCOGFXName            coCCOScarlet,GraphicsRufusName
+	setCOGFXName            coCCOScarlet,GraphicsScarletName
 	setCOGFXPalette         coCCOScarlet,GraphicsRufusPalette
 	setCOGFXFace            coCCOScarlet,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOScarlet,GraphicsRufusMugshot

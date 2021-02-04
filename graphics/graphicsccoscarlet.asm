@@ -15,7 +15,7 @@ GraphicsScarletHappyFace:
 GraphicsScarletSadFace:
 	.import "graphics/CO/CCORufus/rufusSad.bin"
 GraphicsScarletName:
-	.import "graphics/CO/CCORufus/rufusName.bin"
+	.import "graphics/CO/CCOScarlet/scarletname.bin"
 GraphicsScarletMugshot:
 	.import "graphics/CO/AWDSJake/AWDSJakemug.bin"
 ;Blank Line

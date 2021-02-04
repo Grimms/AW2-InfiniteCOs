@@ -2,7 +2,7 @@
 	setCOGameID				coCCOHeidegger,Game_Custom
 
 	setCOGFXFullbody        coCCOHeidegger,GraphicsRufusGraphic
-	setCOGFXName            coCCOHeidegger,GraphicsRufusName
+	setCOGFXName            coCCOHeidegger,GraphicsHeideggerName
 	setCOGFXPalette         coCCOHeidegger,GraphicsRufusPalette
 	setCOGFXFace            coCCOHeidegger,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOHeidegger,GraphicsRufusMugshot

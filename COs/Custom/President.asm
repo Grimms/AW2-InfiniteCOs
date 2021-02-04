@@ -2,7 +2,7 @@
 	setCOGameID				coCCOPresident,Game_Custom
 
 	setCOGFXFullbody        coCCOPresident,GraphicsRufusGraphic
-	setCOGFXName            coCCOPresident,GraphicsRufusName
+	setCOGFXName            coCCOPresident,GraphicsPresidentName
 	setCOGFXPalette         coCCOPresident,GraphicsRufusPalette
 	setCOGFXFace            coCCOPresident,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOPresident,GraphicsRufusMugshot

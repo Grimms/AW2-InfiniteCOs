@@ -15,7 +15,7 @@ GraphicsPresidentHappyFace:
 GraphicsPresidentSadFace:
 	.import "graphics/CO/CCORufus/rufusSad.bin"
 GraphicsPresidentName:
-	.import "graphics/CO/CCORufus/rufusName.bin"
+	.import "graphics/CO/CCOPresident/presidentname.bin"
 GraphicsPresidentMugshot:
 	.import "graphics/CO/AWDSJake/AWDSJakemug.bin"
 ;Blank Line

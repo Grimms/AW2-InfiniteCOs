@@ -15,7 +15,7 @@ GraphicsHojoHappyFace:
 GraphicsHojoSadFace:
 	.import "graphics/CO/CCORufus/rufusSad.bin"
 GraphicsHojoName:
-	.import "graphics/CO/CCORufus/rufusName.bin"
+	.import "graphics/CO/CCOHojo/hojoname.bin"
 GraphicsHojoMugshot:
 	.import "graphics/CO/AWDSJake/AWDSJakemug.bin"
 ;Blank Line

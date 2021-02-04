@@ -2,7 +2,7 @@
 	setCOGameID				coCCOHojo,Game_Custom
 
 	setCOGFXFullbody        coCCOHojo,GraphicsRufusGraphic
-	setCOGFXName            coCCOHojo,GraphicsRufusName
+	setCOGFXName            coCCOHojo,GraphicsHojoName
 	setCOGFXPalette         coCCOHojo,GraphicsRufusPalette
 	setCOGFXFace            coCCOHojo,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOHojo,GraphicsRufusMugshot
