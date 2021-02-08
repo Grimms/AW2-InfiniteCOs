@@ -1,10 +1,10 @@
 	setCODefaults           coCCOHeidegger
 	setCOGameID				coCCOHeidegger,Game_Custom
 
-	setCOGFXFullbody        coCCOHeidegger,GraphicsRufusGraphic
+	setCOGFXFullbody        coCCOHeidegger,GraphicsHeideggerGraphic
 	setCOGFXName            coCCOHeidegger,GraphicsHeideggerName
-	setCOGFXPalette         coCCOHeidegger,GraphicsRufusPalette
-	setCOGFXFace            coCCOHeidegger,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
+	setCOGFXPalette         coCCOHeidegger,GraphicsHeideggerPalette
+	setCOGFXFace            coCCOHeidegger,GraphicsHeideggerFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOHeidegger,GraphicsRufusMugshot
 
 	setCOGFXPowerAnim       coCCOHeidegger,0,0                         ;TODO: not sure what my options here are

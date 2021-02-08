@@ -1,15 +1,15 @@
 ;graphicsccohojo.asm
 GraphicsHojoPalette:
-	.import "graphics/CO/CCORufus/rufusPalette.bin"
+	.import "graphics/CO/CCOHojo/hojoPalette.bin"
 GraphicsHojoGraphic:
-	.dw GraphicsRufusTop
-	.dw GraphicsRufusBody
+	.dw GraphicsHojoTop
+	.dw GraphicsHojoBody
 GraphicsHojoTop:
-	.import "graphics/CO/CCORufus/rufusTop.bin"
+	.import "graphics/CO/CCOHojo/hojoTop.bin"
 GraphicsHojoBody:
-	.import "graphics/CO/CCORufus/rufusBody.bin"
+	.import "graphics/CO/CCOHojo/hojoBody.bin"
 GraphicsHojoFace:
-	.import "graphics/CO/CCORufus/rufusNeutral.bin"
+	.import "graphics/CO/CCOHojo/hojoNeutral.bin"
 GraphicsHojoHappyFace:
 	.import "graphics/CO/CCORufus/rufusHappy.bin"
 GraphicsHojoSadFace:

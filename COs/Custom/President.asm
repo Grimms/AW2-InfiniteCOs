@@ -1,10 +1,10 @@
 	setCODefaults           coCCOPresident
 	setCOGameID				coCCOPresident,Game_Custom
 
-	setCOGFXFullbody        coCCOPresident,GraphicsRufusGraphic
+	setCOGFXFullbody        coCCOPresident,GraphicsPresidentGraphic
 	setCOGFXName            coCCOPresident,GraphicsPresidentName
-	setCOGFXPalette         coCCOPresident,GraphicsRufusPalette
-	setCOGFXFace            coCCOPresident,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
+	setCOGFXPalette         coCCOPresident,GraphicsPresidentPalette
+	setCOGFXFace            coCCOPresident,GraphicsPresidentFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOPresident,GraphicsRufusMugshot
 
 	setCOGFXPowerAnim       coCCOPresident,0,0                         ;TODO: not sure what my options here are

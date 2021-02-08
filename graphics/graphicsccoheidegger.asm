@@ -1,15 +1,15 @@
 ;graphicsccoheidegger.asm
 GraphicsHeideggerPalette:
-	.import "graphics/CO/CCORufus/rufusPalette.bin"
+	.import "graphics/CO/CCOHeidegger/heideggerPalette.bin"
 GraphicsHeideggerGraphic:
-	.dw GraphicsRufusTop
-	.dw GraphicsRufusBody
+	.dw GraphicsHeideggerTop
+	.dw GraphicsHeideggerBody
 GraphicsHeideggerTop:
-	.import "graphics/CO/CCORufus/rufusTop.bin"
+	.import "graphics/CO/CCOHeidegger/heideggerTop.bin"
 GraphicsHeideggerBody:
-	.import "graphics/CO/CCORufus/rufusBody.bin"
+	.import "graphics/CO/CCOHeidegger/heideggerBody.bin"
 GraphicsHeideggerFace:
-	.import "graphics/CO/CCORufus/rufusNeutral.bin"
+	.import "graphics/CO/CCOHeidegger/heideggerNeutral.bin"
 GraphicsHeideggerHappyFace:
 	.import "graphics/CO/CCORufus/rufusHappy.bin"
 GraphicsHeideggerSadFace:

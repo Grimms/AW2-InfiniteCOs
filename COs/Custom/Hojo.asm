@@ -1,10 +1,10 @@
 	setCODefaults           coCCOHojo
 	setCOGameID				coCCOHojo,Game_Custom
 
-	setCOGFXFullbody        coCCOHojo,GraphicsRufusGraphic
+	setCOGFXFullbody        coCCOHojo,GraphicsHojoGraphic
 	setCOGFXName            coCCOHojo,GraphicsHojoName
-	setCOGFXPalette         coCCOHojo,GraphicsRufusPalette
-	setCOGFXFace            coCCOHojo,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
+	setCOGFXPalette         coCCOHojo,GraphicsHojoPalette
+	setCOGFXFace            coCCOHojo,GraphicsHojoFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOHojo,GraphicsRufusMugshot
 
 	setCOGFXPowerAnim       coCCOHojo,0,0                         ;TODO: not sure what my options here are

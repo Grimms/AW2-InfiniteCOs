@@ -1,15 +1,15 @@
 ;graphicsccoscarlet.asm
 GraphicsScarletPalette:
-	.import "graphics/CO/CCORufus/rufusPalette.bin"
+	.import "graphics/CO/CCOScarlet/scarletPalette.bin"
 GraphicsScarletGraphic:
-	.dw GraphicsRufusTop
-	.dw GraphicsRufusBody
+	.dw GraphicsScarletTop
+	.dw GraphicsScarletBody
 GraphicsScarletTop:
-	.import "graphics/CO/CCORufus/rufusTop.bin"
+	.import "graphics/CO/CCOScarlet/scarletTop.bin"
 GraphicsScarletBody:
-	.import "graphics/CO/CCORufus/rufusBody.bin"
+	.import "graphics/CO/CCOScarlet/scarletBody.bin"
 GraphicsScarletFace:
-	.import "graphics/CO/CCORufus/rufusNeutral.bin"
+	.import "graphics/CO/CCOScarlet/scarletNeutral.bin"
 GraphicsScarletHappyFace:
 	.import "graphics/CO/CCORufus/rufusHappy.bin"
 GraphicsScarletSadFace:

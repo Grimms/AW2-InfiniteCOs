@@ -1,10 +1,10 @@
 	setCODefaults           coCCOScarlet
 	setCOGameID				coCCOScarlet,Game_Custom
 
-	setCOGFXFullbody        coCCOScarlet,GraphicsRufusGraphic
+	setCOGFXFullbody        coCCOScarlet,GraphicsScarletGraphic
 	setCOGFXName            coCCOScarlet,GraphicsScarletName
-	setCOGFXPalette         coCCOScarlet,GraphicsRufusPalette
-	setCOGFXFace            coCCOScarlet,GraphicsRufusFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
+	setCOGFXPalette         coCCOScarlet,GraphicsScarletPalette
+	setCOGFXFace            coCCOScarlet,GraphicsScarletFace,GraphicsRufusHappyFace,GraphicsRufusSadFace
 	setCOGFXSmallFace       coCCOScarlet,GraphicsRufusMugshot
 
 	setCOGFXPowerAnim       coCCOScarlet,0,0                         ;TODO: not sure what my options here are

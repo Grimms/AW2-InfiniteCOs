@@ -1,15 +1,15 @@
 ;graphicsccopresident.asm
 GraphicsPresidentPalette:
-	.import "graphics/CO/CCORufus/rufusPalette.bin"
+	.import "graphics/CO/CCOPresident/presidentpalette.bin"
 GraphicsPresidentGraphic:
-	.dw GraphicsRufusTop
-	.dw GraphicsRufusBody
+	.dw GraphicsPresidentTop
+	.dw GraphicsPresidentBody
 GraphicsPresidentTop:
-	.import "graphics/CO/CCORufus/rufusTop.bin"
+	.import "graphics/CO/CCOPresident/presidenttop.bin"
 GraphicsPresidentBody:
-	.import "graphics/CO/CCORufus/rufusBody.bin"
+	.import "graphics/CO/CCOPresident/presidentbody.bin"
 GraphicsPresidentFace:
-	.import "graphics/CO/CCORufus/rufusNeutral.bin"
+	.import "graphics/CO/CCOPresident/presidentNeutral.bin"
 GraphicsPresidentHappyFace:
 	.import "graphics/CO/CCORufus/rufusHappy.bin"
 GraphicsPresidentSadFace:
