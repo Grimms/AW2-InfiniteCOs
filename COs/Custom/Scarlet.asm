@@ -41,9 +41,10 @@
 	;SOLDIER
 	setCOSuperUnitStat		coCCOScarlet,Unit_Mech,50,50,1,0
 
-
-	setCOPowerASM			coCCOScarlet,COPowerCopterCommand                ;TODO: probably gonna need help with these...
-	setCOSuperASM			coCCOScarlet,COPowerAirborneAssault
+	;setCOPowerASM			coCCOScarlet,COPowerCopterCommand                ;TODO: probably gonna need help with these...
+	;setCOSuperASM			coCCOScarlet,COPowerAirborneAssault
+	setCOPowerASM			coCCOScarlet,COPowerTsunami
+	setCOSuperASM			coCCOScarlet,COPowerMeteorStrike4HP
 
 	setCOAIPowerRange       coCCOScarlet,25                               ;TODO: find out what these do
 	setCOAIPowerTrigger     coCCOScarlet,95

@@ -30,16 +30,22 @@
 
 
 	;D2D
+	;general debuff
+	setCOD2DAllStat			coCCOHojo,0,-20,0,0
 	;SOLDIER
-	setCOD2DUnitStat		coCCOHojo,Unit_Mech,50,50,1,0
+	setCOD2DUnitStat		coCCOHojo,Unit_Mech,50,30,1,0
 
 	;CO power
+	;general debuff
+    setCOPowerAllStat		coCCOHojo,0,-20,0,0
 	;SOLDIER
-	setCOPowerUnitStat		coCCOHojo,Unit_Mech,50,50,1,0
+	setCOPowerUnitStat		coCCOHojo,Unit_Mech,50,30,1,0
 
 	;CO super
+	;general debuff
+    setCOSuperAllStat		coCCOHojo,0,-20,0,0
 	;SOLDIER
-	setCOSuperUnitStat		coCCOHojo,Unit_Mech,50,50,1,0
+	setCOSuperUnitStat		coCCOHojo,Unit_Mech,50,30,1,0
 
 
 	setCOPowerASM			coCCOHojo,COPowerCopterCommand                ;TODO: probably gonna need help with these...

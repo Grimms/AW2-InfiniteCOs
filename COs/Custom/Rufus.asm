@@ -53,6 +53,10 @@
 	;A copter
 	setCOSuperUnitStat		coCCORufus,Unit_BattleCopter,40,0,0,0
 
+	;capture bonus
+	setCOd2dCapture			coCCORufus,0
+	setCOPowerCapture		coCCORufus,0
+	setCOSuperCapture		coCCORufus,50
 
 	setCOPowerASM			coCCORufus,COPowerCopterCommand                ;TODO: probably gonna need help with these...
 	setCOSuperASM			coCCORufus,COPowerAirborneAssault

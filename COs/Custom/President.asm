@@ -41,6 +41,10 @@
 	;SOLDIER
 	setCOSuperUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
 
+	;income bonus (TODO: this needs tweaking)
+	setCOD2DIncome			coCCOPresident,50
+    setCOPowerIncome		coCCOPresident,50
+    setCOSuperIncome		coCCOPresident,50
 
 	setCOPowerASM			coCCOPresident,COPowerCopterCommand                ;TODO: probably gonna need help with these...
 	setCOSuperASM			coCCOPresident,COPowerAirborneAssault
