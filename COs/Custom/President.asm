@@ -31,23 +31,32 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
+	setCOD2DUnitStat		coCCOPresident,Unit_Mech,40,0,1,0
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
+	setCOPowerUnitStat		coCCOPresident,Unit_Mech,40,0,1,0
 
 	;CO super
+	;general debuff (entrapment)
+    setCOSuperAllStat		coCCOPresident,-60,-20,0,0
 	;SOLDIER
-	setCOSuperUnitStat		coCCOPresident,Unit_Mech,50,50,1,0
+	setCOSuperUnitStat		coCCOPresident,Unit_Mech,-20,-20,1,0
 
-	;income bonus (TODO: this needs tweaking)
-	setCOD2DIncome			coCCOPresident,50
-    setCOPowerIncome		coCCOPresident,50
-    setCOSuperIncome		coCCOPresident,50
+	;income bonus (d2d)
+	setCOD2DIncome			coCCOPresident,40
+    setCOPowerIncome		coCCOPresident,40
+    setCOSuperIncome		coCCOPresident,40
 
-	setCOPowerASM			coCCOPresident,COPowerCopterCommand                ;TODO: probably gonna need help with these...
-	setCOSuperASM			coCCOPresident,COPowerAirborneAssault
+	;TODO: rebelling properties
+
+	;COP media spin (temporary placeholder)
+	;setCOPowerDamageToFunds	coCCOPresident,100
+	setCOPowerASM			coCCOPresident,COPowerMarketCrash
+
+	;SCOP entrapment (may need tweaking)
+	setCOSuperDamageReflect	coCCOPresident,100
+	;setCOSuperCounter	;TODO: test out this alternative
 
 	setCOAIPowerRange       coCCOPresident,25                               ;TODO: find out what these do
 	setCOAIPowerTrigger     coCCOPresident,95

@@ -31,35 +31,34 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCORufus,Unit_Mech,50,50,1,0
-	;T copter
-	setCOD2DUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
-	;A copter
-	setCOD2DUnitStat		coCCORufus,Unit_BattleCopter,40,0,0,0
+	setCOD2DUnitStat		coCCORufus,Unit_Mech,40,0,1,0
+	;Transport
+	setCOD2DTransportStat	coCCORufus,0,0,1,0
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCORufus,Unit_Mech,50,50,1,0
-	;T copter
-	setCOPowerUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
-	;A copter
-	setCOPowerUnitStat		coCCORufus,Unit_BattleCopter,40,0,0,0
+	setCOPowerUnitStat		coCCORufus,Unit_Mech,40,0,1,0
+	;Transport
+    setCOPowerTransportStat	coCCORufus,0,0,1,0
 
 	;CO super
 	;SOLDIER
-	setCOSuperUnitStat		coCCORufus,Unit_Mech,50,50,1,0
-	;T copter
-	setCOSuperUnitStat		coCCORufus,Unit_TransportCopter,0,0,1,0
-	;A copter
-	setCOSuperUnitStat		coCCORufus,Unit_BattleCopter,40,0,0,0
+	setCOSuperUnitStat		coCCORufus,Unit_Mech,40,0,1,0
+	;Transport
+    setCOSuperTransportStat	coCCORufus,0,0,1,0
 
 	;capture bonus
 	setCOd2dCapture			coCCORufus,0
 	setCOPowerCapture		coCCORufus,0
 	setCOSuperCapture		coCCORufus,50
+	;setCOSuperFlatCaptureBonus		;TODO: test this alternative
 
-	setCOPowerASM			coCCORufus,COPowerCopterCommand                ;TODO: probably gonna need help with these...
-	setCOSuperASM			coCCORufus,COPowerAirborneAssault
+	setCOD2DTerrainFirepowerList	coCCORufus,TerrainFirepowerBoostRufusDayToDay
+    setCOPowerTerrainFirepowerList	coCCORufus,TerrainFirepowerBoostRufusDayToDay
+    setCOSuperTerrainFirepowerList	coCCORufus,TerrainFirepowerBoostRufusDayToDay
+
+	;setCOPowerASM			coCCORufus,COPowerCopterCommand                ;TODO: probably gonna need help with these...
+	;setCOSuperASM			coCCORufus,COPowerAirborneAssault
 
 	setCOAIPowerRange       coCCORufus,25                               ;TODO: find out what these do
 	setCOAIPowerTrigger     coCCORufus,95

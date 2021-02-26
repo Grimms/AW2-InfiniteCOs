@@ -30,35 +30,34 @@
 
 
 	;D2D
+	;general debuff
+	setCOD2DAllStat			coCCOHeidegger,0,-20,0,0
 	;SOLDIER
-	setCOD2DUnitStat		coCCOHeidegger,Unit_Mech,50,50,1,0
+	setCOD2DUnitStat		coCCOHeidegger,Unit_Mech,40,-20,1,0
 	;tanks
-	setCOD2DUnitStat		coCCOHeidegger,Unit_Tank,20,0,0,0
-	setCOD2DUnitStat		coCCOHeidegger,Unit_MidTank,20,0,0,0
+	setCOD2DUnitStat		coCCOHeidegger,Unit_Tank,50,-20,0,0
+	setCOD2DUnitStat		coCCOHeidegger,Unit_MidTank,50,-20,0,0
 
 	;CO power
 	;general boost
-	setCOPowerAllStat		coCCOHeidegger,20,-20,0,0
+	setCOPowerAllStat		coCCOHeidegger,40,-30,0,0
 	;SOLDIER
-	setCOPowerUnitStat		coCCOHeidegger,Unit_Mech,70,30,1,0
+	setCOPowerUnitStat		coCCOHeidegger,Unit_Mech,80,-30,1,0
 	;tanks
-    setCOPowerUnitStat		coCCOHeidegger,Unit_Tank,40,-20,0,0
-    setCOPowerUnitStat		coCCOHeidegger,Unit_MidTank,40,-20,0,0
+    setCOPowerUnitStat		coCCOHeidegger,Unit_Tank,90,-30,0,0
+    setCOPowerUnitStat		coCCOHeidegger,Unit_MidTank,90,-30,0,0
 
 	;CO super
 	;general boost
-	setCOSuperAllStat		coCCOHeidegger,20,-20,0,0
+	setCOSuperAllStat		coCCOHeidegger,40,-30,0,0
 	;SOLDIER
-	setCOSuperUnitStat		coCCOHeidegger,Unit_Mech,70,30,1,0
+	setCOSuperUnitStat		coCCOHeidegger,Unit_Mech,80,-30,1,0
 	;tanks
-    setCOSuperUnitStat		coCCOHeidegger,Unit_Tank,40,-20,0,0
-    setCOSuperUnitStat		coCCOHeidegger,Unit_MidTank,40,-20,0,0
+    setCOSuperUnitStat		coCCOHeidegger,Unit_Tank,90,-30,0,0
+    setCOSuperUnitStat		coCCOHeidegger,Unit_MidTank,90,-30,0,0
     ;discount
-	setCOSuperPrice			coCCOHeidegger,-20
+	setCOSuperPrice			coCCOHeidegger,-30
 
-
-	;setCOPowerASM			coCCOHeidegger,COPowerCopterCommand                ;TODO: probably gonna need help with these...
-	;setCOSuperASM			coCCOHeidegger,COPowerAirborneAssault
 
 	setCOAIPowerRange       coCCOHeidegger,25                               ;TODO: find out what these do
 	setCOAIPowerTrigger     coCCOHeidegger,95

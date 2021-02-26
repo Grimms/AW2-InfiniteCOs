@@ -55,6 +55,7 @@
 	.include "./COStats/TerrainBoosters/terrainboosterkindlesuper.asm"
 	.include "./COStats/TerrainBoosters/terrainboosterjakedaily.asm"
 	.include "./COStats/TerrainBoosters/terrainboosterkoal.asm"
+	.include "./COStats/TerrainBoosters/TerrainBoosterRufusDaily.asm"
 	
 	.include "./coredailypowertable.asm"
 	.relativeinclude off

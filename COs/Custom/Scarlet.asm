@@ -31,19 +31,30 @@
 
 	;D2D
 	;SOLDIER
-	setCOD2DUnitStat		coCCOScarlet,Unit_Mech,50,50,1,0
+	setCOD2DUnitStat		coCCOScarlet,Unit_Mech,40,0,1,0
+	;indirects
+	setCOD2DIndirectStat	coCCOScarlet,0,0,0,1
+	;transport
+	setCOD2DTransportStat	coCCOScarlet,0,0,-1,0
 
 	;CO power
 	;SOLDIER
-	setCOPowerUnitStat		coCCOScarlet,Unit_Mech,50,50,1,0
+	setCOPowerUnitStat		coCCOScarlet,Unit_Mech,40,0,1,0
+	;indirects
+    setCOPowerIndirectStat	coCCOScarlet,0,0,0,1
+    ;transport
+    setCOPowerTransportStat	coCCOScarlet,0,0,-1,0
 
 	;CO super
 	;SOLDIER
-	setCOSuperUnitStat		coCCOScarlet,Unit_Mech,50,50,1,0
+	setCOSuperUnitStat		coCCOScarlet,Unit_Mech,40,0,1,0
+	;indirects
+    setCOSuperIndirectStat	coCCOScarlet,0,0,0,1
+    ;transport
+    setCOSuperTransportStat	coCCOScarlet,0,0,-1,0
 
-	;setCOPowerASM			coCCOScarlet,COPowerCopterCommand                ;TODO: probably gonna need help with these...
-	;setCOSuperASM			coCCOScarlet,COPowerAirborneAssault
-	setCOPowerASM			coCCOScarlet,COPowerTsunami
+
+	setCOPowerASM			coCCOScarlet,COPowerTsunami                    ;TODO: probably gonna need help with these...
 	setCOSuperASM			coCCOScarlet,COPowerMeteorStrike4HP
 
 	setCOAIPowerRange       coCCOScarlet,25                               ;TODO: find out what these do

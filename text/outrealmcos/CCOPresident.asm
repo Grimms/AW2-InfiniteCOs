@@ -6,21 +6,21 @@ CCOPresidentCOPower:
 	.ascii "Media Spin"
 	TextEnd
 CCOPresidentSuperPower:
-	.ascii "Baited Trap"
+	.ascii "Hecatomb Trap"
 	TextEnd
 CCOPresidentDesc1:
-	.ascii "Built a conglomerate bent",TextNL,"on world domination. Now",TextNL,"owns a military complex to",TextNL,"rival that off any nation.",TextNL
-	.ascii "Hit:",TextNL
-	.ascii "Miss:"
+	.ascii "Built a company bent on",TextNL,"world domination. Now",TextNL,"owns an army to rival",TextNL,"that of any nation.",TextNL
+	.ascii "Hit: A high-rise view",TextNL
+	.ascii "Miss: Lawyers"
 	TextEnd
 CCOPresidentDesc2:
-	.ascii "His A copters have",TextNL,"greater offensive",TextNL,"capabilities, and",TextNL,"his T copters",TextNL,"have a greater range.",TextNL,"Access to SOLDIERs."
+	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,"Access to SOLDIERs."
 	TextEnd
 CCOPresidentDesc3:
-	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately.",TextNL,"",TextNL,""
+	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,""
 	TextEnd
 CCOPresidentDesc4:
-	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately. Also can",TextNL,"capture properties",TextNL,"more easily."
+	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,""
 	TextEnd
 CCOPresidentVictory:
 	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
