@@ -9,21 +9,21 @@ CCOHeideggerSuperPower:
 	.ascii "Warmonger"
 	TextEnd
 CCOHeideggerDesc1:
-	.ascii "Shinra's top general. Sees",TextNL,"his troops as nothing but",TextNL,"pawns to be squandered",TextNL,"in the name of dominance.",TextNL
+	.ascii "Shinra's top general.",TextNL,"Sees his troops as mere",TextNL,"pawns to be squandered",TextNL,"to maintain dominance.",TextNL
 	.ascii "Hit: Totalitarianism",TextNL
 	.ascii "Miss: Paperwork"
 	TextEnd
 CCOHeideggerDesc2:
-	.ascii "His tanks have",TextNL,"greater attack and",TextNL,"defence capabilities.",TextNL,"Access to SOLDIERs.",TextNL,"",TextNL,""
+	.ascii "He has powerful tanks",TextNL,"and md tanks, but he",TextNL,"neglegts the defence",TextNL,"of his troops. Also",TextNL,"has access to",TextNL,"SOLDIER units."
 	TextEnd
 CCOHeideggerDesc3:
-	.ascii "Raises attack power",TextNL,"of all troops, but",TextNL,"lowers their defence.",TextNL,"",TextNL,"",TextNL,""
+	.ascii "Raises attack power",TextNL,"of all units, but",TextNL,"lowers their defence.",TextNL,"",TextNL,"",TextNL,""
 	TextEnd
 CCOHeideggerDesc4:
 	.ascii "Raises attack power",TextNL,"while lowering",TextNL,"defence. Also allows",TextNL,"buying new troops",TextNL,"at a discount.",TextNL,""
 	TextEnd
 CCOHeideggerVictory:
-	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
+	.ascii "I've restored peace",TextNL,"once again! GYA HA!"
 	TextEnd
 CCOHeideggerCOPQuote1:
 	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"

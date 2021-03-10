@@ -14,7 +14,7 @@ CCORufusDesc1:
 	.ascii "Miss: Nonperformance"
 	TextEnd
 CCORufusDesc2:
-	.ascii "His A copters have",TextNL,"greater offensive",TextNL,"capabilities, and",TextNL,"his T copters",TextNL,"have a greater range.",TextNL,"Access to SOLDIERs."
+	.ascii "Troops are strong on",TextNL,"foreign properties, but",TextNL,"lost properties reduce",TextNL,"his power meter. Fast",TextNL,"transport units and",TextNL,"access to SOLDIERs."
 	TextEnd
 CCORufusDesc3:
 	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately.",TextNL,"",TextNL,""
@@ -23,10 +23,10 @@ CCORufusDesc4:
 	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately. Also can",TextNL,"capture properties",TextNL,"more easily."
 	TextEnd
 CCORufusVictory:
-	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
+	.ascii "I'll be expecting your",TextNL,"fealty from now on."
 	TextEnd
 CCORufusCOPQuote1:
-	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"
+	.ascii "I'll put an end to this lawless",TextNL,"insurgency, once and for all!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
@@ -38,25 +38,25 @@ CCORufusCOPQuote2:
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote3:
-	.ascii "You can't beat me, but you can",TextNL,"join me. You'd better hurry though!"
+	.ascii "You can't beat me, but you can",TextNL,"join me. You'd best hurry though!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote4:
-	.ascii "You'll all be punished once this",TextNL,"is over, unless you join me now!"
+	.ascii "You'll be punished once this",TextNL,"is over, unless you join me now!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote5:
-	.ascii "Fight for me and you will stay alive.",TextNL,"Defy me and face the wrath of Shinra!"
+	.ascii "Fight for me and you'll stay alive.",TextNL,"Defy me and face the wrath of Shinra!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait
 	TextEnd
 CCORufusCOPQuote6:
-	.ascii "Watch me put the fear of Shinra",TextNL,"in you and your troops!"
+	.ascii "Watch me put the fear of",TextNL,"Shinra in your troops!"
 	.ascii TextWait
 	.ascii TextWait
 	.ascii TextWait

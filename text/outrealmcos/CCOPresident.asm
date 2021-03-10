@@ -14,16 +14,16 @@ CCOPresidentDesc1:
 	.ascii "Miss: Lawyers"
 	TextEnd
 CCOPresidentDesc2:
-	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,"Access to SOLDIERs."
+	.ascii "Gets extra income from",TextNL,"properties through his",TextNL,"service monopoly, but",TextNL,"they tend to rebel when",TextNL,"left unoccupied. Has",TextNL,"access to SOLDIERs."
 	TextEnd
 CCOPresidentDesc3:
-	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,""
+	.ascii "Controls public opinion",TextNL,"and political support",TextNL,"through his media",TextNL,"empire. Extracts half of",TextNL,"the opponent's funds to",TextNL,"himself."
 	TextEnd
 CCOPresidentDesc4:
-	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,""
+	.ascii "Sacrifices his troops",TextNL,"to decimate the enemy.",TextNL,"Attack and defence go",TextNL,"down, but enemy units",TextNL,"themselves suffer any",TextNL,"damage they inflict."
 	TextEnd
 CCOPresidentVictory:
-	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
+	.ascii "We can finally get",TextNL,"back to business."
 	TextEnd
 CCOPresidentCOPQuote1:
 	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"

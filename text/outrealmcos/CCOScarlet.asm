@@ -9,21 +9,21 @@ CCOScarletSuperPower:
 	.ascii "Sister Ray"
 	TextEnd
 CCOScarletDesc1:
-	.ascii "Head of Shinra's weapons",TextNL,"development department.",TextNL,"Delights in seeing her",TextNL,"weapons put to cruel use.",TextNL
+	.ascii "Head of Shinra's",TextNL,"weapons development.",TextNL,"Delights in seeing her",TextNL,"weapons put to use.",TextNL
 	.ascii "Hit: Supreme power",TextNL
 	.ascii "Miss: Disputation"
 	TextEnd
 CCOScarletDesc2:
-	.ascii "",TextNL,"",TextNL,"",TextNL,"",TextNL,"",TextNL,"Access to SOLDIERs."
+	.ascii "Increaced maximum",TextNL,"ammo and firing",TextNL,"range, but her",TextNL,"transport units are",TextNL,"inferior. Also has",TextNL,"access to SOLDIERs."
 	TextEnd
 CCOScarletDesc3:
-	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately.",TextNL,"",TextNL,""
+	.ascii "A mass array laser",TextNL,"that carpets the",TextNL,"battlefield. Deals",TextNL,"damage to all enemy",TextNL,"units and disrupts",TextNL,"their defences."
 	TextEnd
 CCOScarletDesc4:
-	.ascii "Cozens one enemy unit",TextNL,"to defect to his side,",TextNL,"ready to activate",TextNL,"immediately. Also can",TextNL,"capture properties",TextNL,"more easily."
+	.ascii "A massive cannon",TextNL,"is fired at the enemy,",TextNL,"dealing great localized",TextNL,"damage.",TextNL,"",TextNL,""
 	TextEnd
 CCOScarletVictory:
-	.ascii "Now that that's settled, I'll be",TextNL,"expecting your fealty from now on."
+	.ascii "Ready to surrender?",TextNL,"KYA HA HA!"
 	TextEnd
 CCOScarletCOPQuote1:
 	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"
