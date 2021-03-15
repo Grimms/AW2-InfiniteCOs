@@ -23,7 +23,7 @@ CCOHeideggerDesc4:
 	.ascii "Raises attack power",TextNL,"while lowering",TextNL,"defence. Also allows",TextNL,"buying new troops",TextNL,"at a discount.",TextNL,""
 	TextEnd
 CCOHeideggerVictory:
-	.ascii "I've restored peace",TextNL,"once again! GYA HA!"
+	.ascii "I've restored peace",TextNL,"once again! GYA HA HA!"
 	TextEnd
 CCOHeideggerCOPQuote1:
 	.ascii "I will put an end to this lawless",TextNL,"insurgency, once and for all!"
